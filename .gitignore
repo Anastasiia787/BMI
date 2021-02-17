@@ -13,14 +13,15 @@
 
 # ## IntelliJ IDEA ###
 .idea
-* .iws
-* .iml
-* .ipr
+*.iws
+*.iml
+*.ipr
 
 # ## NetBeans ###
-/ nbproject / частный /
-/ build /
-/ nbbuild /
-/ dist /
-/ nbdist /
-/ .nb-gradle /
+/nbproject / частный /
+/build /
+/nbbuild /
+/dist /
+/nbdist /
+/.nb-gradle /
+/out/
