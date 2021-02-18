@@ -1,8 +1,8 @@
-/ из /
-/ target /
-! .mvn / обертка / maven-wrapper.jar
+/из/
+/target/
+!.mvn/обертка/maven-wrapper.jar
 
-# ## СТС ###
+###СТС###
 .apt_generated
 .classpath
 .factorypath
@@ -11,17 +11,17 @@
 .springBeans
 .sts4-кешgit
 
-# ## IntelliJ IDEA ###
+###IntelliJIDEA###
 .idea
 *.iws
 *.iml
 *.ipr
 
-# ## NetBeans ###
-/nbproject / частный /
-/build /
-/nbbuild /
-/dist /
-/nbdist /
-/.nb-gradle /
+###NetBeans###
+/nbproject/частный/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
 /out/
